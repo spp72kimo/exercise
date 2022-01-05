@@ -1,3 +1,4 @@
+# 清單中尋找最大直
 
 def find_max(a_list=[]):
 	if not a_list:
